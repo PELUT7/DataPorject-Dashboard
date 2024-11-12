@@ -1,1 +1,3 @@
 # DataPorject-Dashboard
+En este proyecto lo que he querido mostrar es las estadisticas individuales de un jugador profesional de VALORANT en el último tonreo de la temporada (VALORANT CHAMPIONS).
+Primero que todo he hecho una función SI para mostrar las filas las cuales debía eliminar ya que dicha fila mostraba un resumen de cada jugador del partido y esto afectaba a los resultados del análisis ya que sumaba las estadisticas por mapa más un resumen de ambos mapas. He convertido el nombre de los agentes a MAYÚSCULAS para que se quedase en un formato mejor para la presentación del dashboard. He separado tambien en la columna Clutches (won/played), de esta manera poder analizarlo mejor y poder sacar más conclusiones.
